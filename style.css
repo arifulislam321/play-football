@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.copa h1{
+    font-size: 64px;
+    margin-left: 156px;
+    margin-right: 102px;
+    color: #FFFFFF;
+    margin-top: 207px;
+    
+}
+.banner img{
+    width: 556.01px;
+    height: 438px;
+    margin-top: 153px;
+    margin-bottom: 86px;
+}
+.live{
+    background: #E02C6D;
+    margin-left: 156px;
+    width: 168px;
+    height: 44px;
+    padding: 8px 10px;
+    margin-bottom: 169px;
+}
+.live-bar{
+    display: flex;
+}
+.copa-America{
+    width: 1440px;
+    height: 677px;
+   background-color: rgba(45, 37, 160, 1);
+   margin-bottom: 70px;
+}
